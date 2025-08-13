@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 AI Collaborative Study Platform
 
-## Getting Started
+An upcoming **SaaS AI-powered collaborative study platform** designed to make learning your favourite topics both **engaging** and **personalised**.  
+Whether you want **formal academic explanations** or **casual, conversational learning**, our AI companion adapts to your style — even offering different **voices** and **presentation styles**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🤖 **AI Study Companion** – Learn any topic with AI, tailored to your needs.
+- 🗣 **Multiple Voices & Styles** – Switch between formal lectures, casual chats, or storytelling.
+- 🎭 **Adaptive Learning Modes** – From deep technical explanations to simplified beginner-friendly versions.
+- 🎨 **Smooth Animations** – A polished, interactive user experience.
+- 🌐 **Modern Tech Stack** – Built with **TypeScript**, **JavaScript**, **Next.js**, **React**, and advanced **animation libraries**.
+- 📱 **Responsive Design** – Works seamlessly across devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔧 Tech Stack
 
-## Learn More
+- **Frontend:** Next.js, React, TypeScript, TailwindCSS (with animations)
+- **Backend:** Node.js (with AI integration)
+- **AI Engine:** OpenAI API and VAPI
+- **Other Tools:** Modern state management & API handling
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📅 Roadmap
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **MVP / First Version** – Launching soon 🎉
+- Integration of **DevOps features** for scalability and performance.
+- Collaboration rooms for multiple users to study together with AI assistance.
+- Advanced **note-taking & summarisation** capabilities.
+- Voice-driven interaction with real-time response.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Development Status
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Currently in **active development**.  
+Stay tuned for the **first release**, which will be available soon.
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and feedback are welcome!  
+If you'd like to contribute, feel free to **fork** the repo and submit a **pull request**.
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration requests:  
+📧 **aryankapoor0604@gmail.com**
+
+---
+
+> _"Learning is best when it’s tailored to you — let’s make it happen with AI."_
